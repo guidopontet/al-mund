@@ -7,3 +7,5 @@
 # Servir
   Ejecutar `npm start`
   
+# Enviar peticiones
+  Ya se encuentra el API server escuchando peticiones en el puerto 3002
